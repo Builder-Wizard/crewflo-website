@@ -1,0 +1,35 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/contact",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/#contact",
+      "permanent": true
+    },
+    {
+      "source": "/pricing",
+      "destination": "/#pricing",
+      "permanent": true
+    },
+    {
+      "source": "/pricing/",
+      "destination": "/#pricing",
+      "permanent": true
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/privacy/",
+      "destination": "/privacy-policy/",
+      "permanent": true
+    }
+  ]
+}
